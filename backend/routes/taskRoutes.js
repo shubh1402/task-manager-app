@@ -3,7 +3,16 @@ const fs = require("fs")
 
 const router = express.Router()
 
-const path = "./data/tasks.json"
+const fs = require("fs")
+const path = require("path")
+
+const filePath =
+path.join(
+__dirname,
+"..",
+"data",
+"tasks.json"
+)
 
 router.get("/", (req, res) => {
 
