@@ -6,7 +6,7 @@ Frontend:
 <PASTE https://task-manager-8wzxznny2-shubh1402s-projects.vercel.app/
 
 Backend:
-<PASTE https://task-manager-app-e9po.onrender.com/tasks>/tasks
+<PASTE https://task-manager-app-e9po.onrender.com/tasks
 
 GitHub:
 <PASTE https://github.com/shubh1402/task-manager-app/
