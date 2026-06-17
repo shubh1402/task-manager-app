@@ -3,13 +3,13 @@
 ## Live Demo
 
 Frontend:
-<PASTE https://task-manager-8wzxznny2-shubh1402s-projects.vercel.app/>
+<PASTE https://task-manager-8wzxznny2-shubh1402s-projects.vercel.app/
 
 Backend:
 <PASTE https://task-manager-app-e9po.onrender.com/tasks>/tasks
 
 GitHub:
-<PASTE https://github.com/shubh1402/task-manager-app/>
+<PASTE https://github.com/shubh1402/task-manager-app/
 
 ---
 
